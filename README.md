@@ -54,7 +54,11 @@ An autonomous software engineering workflow that uses specialized AI agents for 
 
 **Tech:** `Python` `LangGraph` `Ollama` `Docker` `FastAPI`
 
-[View Project →](https://github.com/merugumallarajasimha/Autonomous-Multi-Agent-AI-Coding)
+<p>
+  <a href="https://github.com/merugumallarajasimha/autonomous-multi-agent-coder">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Autocoder Repository"/>
+  </a>
+</p>
 
 ---
 
@@ -64,7 +68,11 @@ A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusio
 
 **Tech:** `RAG` `Qdrant` `Embeddings` `Reranking` `FastAPI` `PostgreSQL`
 
-[View Project →](https://github.com/merugumallarajasimha/CatalogIQ-Hybrid-RAG-Based-E-Commerce-Support-Assistant)
+<p>
+  <a href="https://github.com/merugumallarajasimha/catalogiq-hybrid-rag-based-e-commerce-support-assistant">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CatalogIQ Repository"/>
+  </a>
+</p>
 
 ---
 
@@ -74,31 +82,25 @@ A research-focused RAG system designed to retrieve relevant academic information
 
 **Tech:** `RAG` `LLMs` `Vector Search` `NLP` `Python`
 
-[View Project →](https://github.com/merugumallarajasimha)
-
----
-
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=merugumallarajasimha&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/merugumallarajasimha">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=merugumallarajasimha&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-      alt="Rajasimha's GitHub Stats"
-    />
+<p>
+  <a href="https://github.com/merugumallarajasimha/raglens">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="RAGLens Repository"/>
   </a>
 </p>
 
 ---
 
-## 🔗 Connect
+## 📊 GitHub Contributions
+
+<p align="center">
+  <a href="https://github.com/merugumallarajasimha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=merugumallarajasimha&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/merugumallarajasimha">
