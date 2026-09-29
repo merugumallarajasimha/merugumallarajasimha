@@ -1,20 +1,11 @@
-🚀 About Me
-🔭 Currently working on LLM Fine-Tuning & Evaluation
-🌱 Currently learning Advanced RAG, Agentic AI, LLM Evaluation, Fine-Tuning & AI System Design
-💬 Ask me about Python, RAG, LLMs, AI Agents, Machine Learning & Data Analysis
-📫 Reach me at rajasimhamerugumalla@gmail.com
-📄 View My Resume
-🧠 AI & Machine Learning
-🛠️ Languages & Tools
-⭐ Featured Projects
-🤖 Autocoder : Autonomous Multi-Agent AI Coding System
-An autonomous software engineering workflow that uses specialized AI agents for planning, coding, verification, code review, and automated fixes.
-Tech: Python LangGraph Ollama Docker FastAPI
-🔎 CatalogIQ : Hybrid RAG E-Commerce Support Assistant
-A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking for product and technical support queries.
-Tech: RAG Qdrant Embeddings Reranking FastAPI PostgreSQL
-📚 RAGLens : Citation-Aware Research Assistant
-A research-focused RAG system designed to retrieve relevant academic information and generate grounded answers with citation awareness.
-Tech: RAG LLMs Vector Search NLP Python
-📊 GitHub Contributions
-🔗 Connect With Me 
+<h1 align="center">Hi 👋, I'm M. Rajasimha</h1> <h3 align="center"> AI/ML Engineer • LLMs • RAG • Agentic AI </h3> <p align="center"> <em>Building intelligent, reliable, and production-oriented AI systems.</em> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=merugumallarajasimha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> --- ## 🚀 About Me * 🔭 Currently working on **LLM Fine-Tuning & Evaluation** * 🌱 Currently learning **Advanced RAG, Agentic AI, LLM Evaluation, Fine-Tuning & AI System Design** * 💬 Ask me about **Python, RAG, LLMs, AI Agents, Machine Learning & Data Analysis** * 📫 Reach me at **[rajasimhamerugumalla@gmail.com](mailto:rajasimhamerugumalla@gmail.com)** * 📄 **[View My Resume](./MRajasimha__Resume.pdf)** --- ## 🧠 AI & Machine Learning <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning Skills" /> </p> <p align="center"> <strong> LLMs • RAG • Agentic AI • LangGraph • LangChain • Embeddings • Vector Search • LLM Evaluation </strong> </p> --- ## 🛠️ Languages & Tools <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,postgres,mysql,docker,fastapi,git,linux" alt="Languages and Tools" /> </p> --- ## ⭐ Featured Projects ### 🤖 Autocoder : Autonomous Multi-Agent AI Coding System An autonomous software engineering workflow that uses specialized AI agents for planning, coding, verification, code review, and automated fixes. **Tech:** Python LangGraph Ollama Docker FastAPI <p> <a href="https://github.com/merugumallarajasimha/autonomous-multi-agent-coder"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Autocoder Repository"/> </a> </p> --- ### 🔎 CatalogIQ : Hybrid RAG E-Commerce Support Assistant A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking for product and technical support queries. **Tech:** RAG Qdrant Embeddings Reranking FastAPI PostgreSQL <p> <a href="https://github.com/merugumallarajasimha/catalogiq-hybrid-rag-based-e-commerce-support-assistant"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CatalogIQ Repository"/> </a> </p> --- ### 📚 RAGLens : Citation-Aware Research Assistant A research-focused RAG system designed to retrieve relevant academic information and generate grounded answers with citation awareness. **Tech:** RAG LLMs Vector Search NLP Python <p> <a href="https://github.com/merugumallarajasimha/raglens"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="RAGLens Repository"/> </a> </p> --- ## 📊 GitHub Contributions <p align="center"> <a href="https://github.com/merugumallarajasimha"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=merugumallarajasimha&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" /> </a> </p> --- ## 🔗 Connect With Me <p align="center"> <a href="https://github.com/merugumallarajasimha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/raja-simha-98171b273/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+<a href="mailto:rajasimhamerugumalla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building. Learning. Shipping AI.</b>
+</p>
