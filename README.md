@@ -1,125 +1,50 @@
-<h1 align="center">Hi 👋, I'm M. Rajasimha</h1>
+# Hi there, I'm Rajasimha Merugumalla 👋
 
-<h3 align="center">
-AI/ML Engineer • LLMs • RAG • Agentic AI
-</h3>
-
-<p align="center">
-  <em>Building intelligent, reliable, and production-oriented AI systems.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merugumallarajasimha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### 🚀 About Me
+- 🔭 **Currently working on:** LLM Fine-Tuning & Evaluation
+- 🌱 **Currently learning:** Advanced RAG, Agentic AI, LLM Evaluation, Fine-Tuning & AI System Design
+- 💬 **Ask me about:** Python, RAG, LLMs, AI Agents, Machine Learning & Data Analysis
+- 📫 **Reach me at:** [rajasimhamerugumalla@gmail.com](mailto:rajasimhamerugumalla@gmail.com)
+- 📄 **Resume:** [View My Resume](https://github.com/merugumallarajasimha)
 
 ---
 
-## 🚀 About Me
+### 🛠️ Languages & Tools
 
-* 🔭 Currently working on **LLM Fine-Tuning & Evaluation**
-* 🌱 Currently learning **Advanced RAG, Agentic AI, LLM Evaluation, Fine-Tuning & AI System Design**
-* 💬 Ask me about **Python, RAG, LLMs, AI Agents, Machine Learning & Data Analysis**
-* 📫 Reach me at **[rajasimhamerugumalla@gmail.com](mailto:rajasimhamerugumalla@gmail.com)**
-* 📄 **[View My Resume](./MRajasimha__Resume.pdf)**
+**Languages & Frameworks:**
+`Python` `SQL` `FastAPI` `LangGraph` `PyTorch` `Scikit-Learn`
 
----
+**Machine Learning & GenAI:**
+`Multi-Agent Systems` `RAG` `Qdrant` `BM25` `Reranking` `Ollama` `LightGBM` `XGBoost` `CatBoost`
 
-## 🧠 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning Skills" />
-</p>
-
-<p align="center">
-  <strong>
-    LLMs • RAG • Agentic AI • LangGraph • LangChain • Embeddings • Vector Search • LLM Evaluation
-  </strong>
-</p>
+**Data & Deployment:**
+`PostgreSQL` `Docker` `Streamlit` `Power BI` `Git` `VS Code`
 
 ---
 
-## 🛠️ Languages & Tools
+### ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,postgres,mysql,docker,fastapi,git,linux" alt="Languages and Tools" />
-</p>
+#### 🤖 [Autocoder: Autonomous Multi-Agent AI Coding System](https://github.com/merugumallarajasimha)
+An autonomous software engineering workflow using specialized AI agents built with **LangGraph** and **Qwen2.5-Coder** for code synthesis, security auditing via **Ruff** and **Bandit**, and automated code execution in an isolated **Docker** sandbox.  
+`Tech Stack:` `Python` `LangGraph` `Ollama` `Docker` `FastAPI`
 
----
+#### 📚 [RAGLens: Citation-Aware Research Assistant](https://github.com/merugumallarajasimha)
+A high-precision research paper RAG pipeline combining **Qdrant** dense embeddings and **BM25** sparse search with Reciprocal Rank Fusion (RRF) and Cross-Encoder reranking. Features a custom validator to prevent hallucinated references.  
+`Tech Stack:` `Python` `FastAPI` `Qdrant` `BM25` `Cross-Encoders` `Streamlit`
 
-## ⭐ Featured Projects
-
-### 🤖 Autocoder : Autonomous Multi-Agent AI Coding System
-
-An autonomous software engineering workflow that uses specialized AI agents for planning, coding, verification, code review, and automated fixes.
-
-**Tech:** `Python` `LangGraph` `Ollama` `Docker` `FastAPI`
-
-<p>
-  <a href="https://github.com/merugumallarajasimha/autonomous-multi-agent-coder">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Autocoder Repository"/>
-  </a>
-</p>
+#### 🚚 [TransitGuard: Predictive Delivery ML Pipeline](https://github.com/merugumallarajasimha)
+An end-to-end delivery cancellation and delay prediction system using **LightGBM** and cost-sensitive learning to handle severe class imbalance, backed by a **PostgreSQL** star-schema database and sub-50ms **FastAPI** containerized inference.  
+`Tech Stack:` `Python` `LightGBM` `PostgreSQL` `FastAPI` `Docker` `Streamlit`
 
 ---
 
-### 🔎 CatalogIQ : Hybrid RAG E-Commerce Support Assistant
-
-A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking for product and technical support queries.
-
-**Tech:** `RAG` `Qdrant` `Embeddings` `Reranking` `FastAPI` `PostgreSQL`
-
-<p>
-  <a href="https://github.com/merugumallarajasimha/catalogiq-hybrid-rag-based-e-commerce-support-assistant">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CatalogIQ Repository"/>
-  </a>
-</p>
+### 📊 GitHub Stats
+![Rajasimha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merugumallarajasimha&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merugumallarajasimha&layout=compact&theme=dark)
 
 ---
 
-### 📚 RAGLens : Citation-Aware Research Assistant
-
-A research-focused RAG system designed to retrieve relevant academic information and generate grounded answers with citation awareness.
-
-**Tech:** `RAG` `LLMs` `Vector Search` `NLP` `Python`
-
-<p>
-  <a href="https://github.com/merugumallarajasimha/raglens">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="RAGLens Repository"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/merugumallarajasimha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=merugumallarajasimha&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-  </a>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/merugumallarajasimha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/raja-simha-98171b273">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:rajasimhamerugumalla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Building. Learning. Shipping AI.</b>
-</p>
+### 🔗 Connect With Me
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/raja-simha-98171b273)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/merugumallarajasimha)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajasimhamerugumalla@gmail.com)
