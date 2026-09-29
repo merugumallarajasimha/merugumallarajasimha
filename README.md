@@ -48,7 +48,7 @@ AI/ML Engineer • LLMs • RAG • Agentic AI
 
 ## ⭐ Featured Projects
 
-### 🤖 Autocoder — Autonomous Multi-Agent AI Coding System
+### 🤖 Autocoder : Autonomous Multi-Agent AI Coding System
 
 An autonomous software engineering workflow that uses specialized AI agents for planning, coding, verification, code review, and automated fixes.
 
@@ -62,7 +62,7 @@ An autonomous software engineering workflow that uses specialized AI agents for 
 
 ---
 
-### 🔎 CatalogIQ — Hybrid RAG E-Commerce Support Assistant
+### 🔎 CatalogIQ : Hybrid RAG E-Commerce Support Assistant
 
 A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking for product and technical support queries.
 
@@ -76,7 +76,7 @@ A hybrid retrieval system combining dense retrieval, BM25, Reciprocal Rank Fusio
 
 ---
 
-### 📚 RAGLens — Citation-Aware Research Assistant
+### 📚 RAGLens : Citation-Aware Research Assistant
 
 A research-focused RAG system designed to retrieve relevant academic information and generate grounded answers with citation awareness.
 
